@@ -57,7 +57,7 @@ void Draw() {
 			}
 
 
-			if (j == width - 1)
+			if (j == width - 1) 
 				cout << "#";
 		}
 		cout << endl; ; // endl yapmamýzýn amacý ise her döngü sonunda alt satýra geçmemizdir ve bu þekilde çerçeve oluþacaktýr.

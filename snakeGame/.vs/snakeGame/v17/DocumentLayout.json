@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ahmet\\source\\repos\\snakeGame\\",
+  "WorkspaceRootPath": "C:\\Users\\ahmet\\Documents\\GitHub\\SnakeGame\\snakeGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{37DB9A66-7439-4048-804B-86E4365CA537}|snakeGame.vcxproj|C:\\Users\\ahmet\\source\\repos\\snakeGame\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{37DB9A66-7439-4048-804B-86E4365CA537}|snakeGame.vcxproj|C:\\Users\\ahmet\\Documents\\GitHub\\SnakeGame\\snakeGame\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{37DB9A66-7439-4048-804B-86E4365CA537}|snakeGame.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\ahmet\\source\\repos\\snakeGame\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Documents\\GitHub\\SnakeGame\\snakeGame\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\ahmet\\source\\repos\\snakeGame\\main.cpp",
+              "ToolTip": "C:\\Users\\ahmet\\Documents\\GitHub\\SnakeGame\\snakeGame\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAI0AAAAAAAAAAAAAAIMAAABLAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-17T17:14:33.212Z",
               "EditorCaption": ""
